@@ -1,5 +1,3 @@
-# suchayjoshi
-
 <h1 align="center">
   Suchay Joshi
 </h1>
@@ -16,6 +14,17 @@
   <a href="https://github.com/sucxay">
     GitHub
   </a>
+</p>
+
+<br>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I'm a student passionate about Artificial Intelligence, Machine Learning,
+  Deep Learning and Software Engineering.
+  <br>
+  I enjoy learning new technologies and building practical projects.
 </p>
 
 ---
@@ -51,7 +60,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sucxay&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=sucxay&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
@@ -64,11 +74,12 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sucxay&theme=tokyo-night&hide_border=true"
     width="95%"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building things, learning constantly, and contributing every day.</i>
+  <i>Learning • Building • Exploring AI</i>
 </p>
