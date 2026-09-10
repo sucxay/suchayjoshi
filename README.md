@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  AI / ML Developer • Full-Stack Developer • Software Engineer
+  AI / ML Developer • AI Engineer • Software Engineer
 </p>
 
 <p align="center">
