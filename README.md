@@ -1,12 +1,12 @@
 # suchayjoshi
 <h1 align="center">
-  Your Name
+  Suchay Joshi 
 </h1>
 
 <p align="center">
-  <a href="https://yourwebsite.com">Website</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a>
+  
+  <a href="https://www.linkedin.com/in/suchay-joshi-154a1a3ab/">LinkedIn</a> •
+  <a href="https://github.com/sucxay">GitHub</a>
 </p>
 
 <br>
